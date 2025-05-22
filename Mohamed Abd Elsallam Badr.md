@@ -25,7 +25,8 @@
 ### "git diff new-email"
 
 ## what is tags and Make five tags and release two of them?
-### git tag v1.0
+### Tags mark specific commits (often for versions/releases), 
+
 ### - To Create:
 'git tag v1.0'<br/>
 'git tag v1.1'<br/>
