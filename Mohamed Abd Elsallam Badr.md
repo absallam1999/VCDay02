@@ -26,12 +26,12 @@
 
 ## what is tags and Make five tags and release two of them?
 ### git tag v1.0
-### Create 5 Tags:
+### - To Create:
 'git tag v1.0'<br/>
 'git tag v1.1'<br/>
 'git tag v2.0'<br/>
 'git tag beta'<br/>
 'git tag v2.2'<br/>
-### - To Release :
+### - To Release:
 'git push origin v1.0'<br/>
 'git push origin v2.0'<br/>
