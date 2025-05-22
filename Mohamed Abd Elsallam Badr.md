@@ -16,7 +16,7 @@
 ### Git Rebase is a way to move or combine commits to create a cleaner history.
 ### It’s useful to:
 ### Avoid merge commits
-### Make your commit history linear
+### Make commit history linear
 
 ## What is the command to get all the change history of the remote repository "origin"?
 ### "git fetch origin"
